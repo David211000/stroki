@@ -1,6 +1,6 @@
-name='программа'
-print(name[0])
-print(name[-1])
-print(name[4:])
-print(name[::-1])
-print(name[::2])
+example ='программа'
+print(example[0])
+print(example[-1])
+print(example[4:])
+print(example[::-1])
+print(example[::2])
